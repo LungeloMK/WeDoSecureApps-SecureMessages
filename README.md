@@ -1,6 +1,6 @@
 # Secure Messages Application
 
-![Application Screenshot](images/1.png)
+![Application Screenshot](images/3.png)
 
 ## Overview
 A secure messaging desktop application implementing Caesar Cipher encryption, developed by WeDoSecureApps. The application features:
