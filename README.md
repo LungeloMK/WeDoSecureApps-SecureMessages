@@ -22,16 +22,16 @@ A secure messaging desktop application implementing Caesar Cipher encryption, de
 
 ## Repository Structure
 WeDoSecureApps-SecureMessages/
-├── src/
-│ ├── Message.java
-│ ├── MessageEncryptor.java
-│ ├── SecureMessagesFrame.java
-│ └── SecureMessagesApp.java
-├── images/
-│ ├── 1.png (Main Interface)
-│ ├── 2.png (File Menu)
-│ └── 3.png (Encryption Demo)
-└── README.md
+ src/
+ Message.java
+ MessageEncryptor.java
+SecureMessagesFrame.java
+SecureMessagesApp.java
+images/
+1.png (Main Interface)
+2.png (File Menu)
+3.png (Encryption Demo)
+README.md
 
 text
 
