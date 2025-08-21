@@ -1,7 +1,7 @@
 # Secure Messages Application
 
 ##  Screenshot
-![Application Screenshot](WeDoSecureApps-SecureMessages/images/3.png)
+![Application Screenshot](images/3.png)
 
 
 
