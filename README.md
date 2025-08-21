@@ -1,7 +1,8 @@
 # Secure Messages Application
 
 ##  Screenshot
-![Application Screenshot](Screenshot%202025-08-21%20120623.png)
+![Application Screenshot](WeDoSecureApps-SecureMessages/images/3.png)
+
 
 
 ## Overview
